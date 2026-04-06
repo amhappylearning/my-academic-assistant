@@ -1,0 +1,100 @@
+United Kingdom,GB,London,LDN,South,Sunrise High,46,7,Grade 7,State Board,1742,132,177,7646,612,97,10700,63,No,294
+Australia,AU,New South Wales,NSW,East,Global Scholars,30,3,Grade 3,CBSE,2691,491,216,9479,340,248,13765,24,No,300
+Australia,AU,New South Wales,NSW,East,Lincoln Academy,31,9,Grade 9,ICSE,3730,217,246,14179,187,307,19223,100,Yes,357
+Australia,AU,New South Wales,NSW,East,Westview School,5,9,Grade 9,GCSE,2819,444,126,12297,675,417,17144,38,No,366
+Australia,AU,New South Wales,NSW,East,Victoria Public School,31,7,Grade 7,HSC,4079,320,70,3978,530,489,9809,80,Yes,343
+Australia,AU,New South Wales,NSW,East,Sunrise High,29,12,Grade 12,CBSE,4939,500,146,13835,694,420,20698,75,Yes,164
+Australia,AU,New South Wales,NSW,East,Elite International,36,5,Grade 5,IB,939,436,137,12755,891,204,15860,35,Yes,498
+Australia,AU,New South Wales,NSW,East,Global Scholars,11,9,Grade 9,CBSE,2946,291,150,4916,546,331,9414,67,Yes,234
+Australia,AU,New South Wales,NSW,East,St. Xavier s School,15,5,Grade 5,ICSE,2282,115,238,13327,596,280,17184,82,Yes,346
+Australia,AU,New South Wales,NSW,East,Victoria Public School,10,10,Grade 10,HSC,1736,116,243,8814,136,426,11793,60,Yes,322
+Australia,AU,New South Wales,NSW,East,Heritage Academy,27,3,Grade 3,CBSE,4301,228,143,14816,569,415,20904,97,No,432
+Australia,AU,Queensland,QLD,North,Victoria Public School,2,8,Grade 8,ICSE,3486,331,134,7205,153,103,11501,68,Yes,89
+Australia,AU,Queensland,QLD,North,Elite International,19,6,Grade 6,HSC,3318,370,184,12110,507,57,16910,13,Yes,364
+Australia,AU,Queensland,QLD,North,Heritage Academy,46,11,Grade 11,IGCSE,4129,338,240,7579,559,105,13206,52,No,256
+Australia,AU,Queensland,QLD,North,St. Xavier s School,48,4,Grade 4,IB,3220,370,95,2488,919,185,7700,44,No,423
+Australia,AU,Queensland,QLD,North,Greenwood High,38,1,Grade 1,IGCSE,2977,227,71,9153,855,316,13762,33,No,163
+Australia,AU,Queensland,QLD,North,Westview School,21,9,Grade 9,ICSE,1726,226,257,4011,599,129,7303,50,Yes,355
+Australia,AU,Queensland,QLD,North,Sunrise High,38,1,Grade 1,ICSE,3405,469,281,6106,471,94,10977,79,No,151
+Australia,AU,Victoria,VIC,South,Victoria Public School,39,1,Grade 1,CBSE,3309,105,52,12006,343,483,16796,33,No,498
+Australia,AU,Victoria,VIC,South,Heritage Academy,48,9,Grade 9,IB,598,179,192,3760,121,314,5366,41,Yes,202
+Australia,AU,Victoria,VIC,South,St. Xavier s School,41,7,Grade 7,IGCSE,920,144,300,2499,469,145,4695,70,No,218
+Australia,AU,Victoria,VIC,South,Victoria Public School,3,12,Grade 12,State Board,3600,168,292,8216,564,261,13431,22,Yes,330
+Australia,AU,Victoria,VIC,South,Heritage Academy,8,3,Grade 3,State Board,4805,453,59,13509,783,453,20375,80,No,313
+Australia,AU,Victoria,VIC,South,St. Xavier s School,30,4,Grade 4,ICSE,2161,348,142,3462,638,452,7541,26,No,338
+Canada,CA,British Columbia,BC,West,St. Xavier s School,10,9,Grade 9,HSC,1521,222,256,6498,972,290,9992,45,No,233
+Canada,CA,British Columbia,BC,West,St. Xavier s School,23,4,Grade 4,IGCSE,1104,395,283,13320,552,169,16039,63,No,216
+Canada,CA,British Columbia,BC,West,Heritage Academy,47,2,Grade 2,IGCSE,2763,411,258,9037,904,194,13797,93,Yes,230
+Canada,CA,British Columbia,BC,West,Global Scholars,28,4,Grade 4,State Board,4252,141,172,5848,444,464,11387,50,No,66
+Canada,CA,British Columbia,BC,West,Global Scholars,18,2,Grade 2,State Board,4134,128,250,6570,220,237,12038,82,Yes,499
+Canada,CA,British Columbia,BC,West,Westview School,22,5,Grade 5,HSC,1195,258,106,6580,356,69,8896,89,No,332
+Canada,CA,Ontario,ON,Central,Lincoln Academy,36,12,Grade 12,CBSE,2041,428,251,2885,198,318,6352,74,No,231
+Canada,CA,Ontario,ON,Central,St. Xavier s School,46,11,Grade 11,IB,3586,388,74,4724,614,374,10229,17,No,469
+Canada,CA,Ontario,ON,Central,Westview School,6,2,Grade 2,GCSE,3978,328,195,2173,803,370,8084,20,No,237
+Canada,CA,Ontario,ON,Central,Westview School,23,4,Grade 4,HSC,1839,274,271,3313,322,438,6861,14,No,404
+Canada,CA,Ontario,ON,Central,Elite International,23,1,Grade 1,CBSE,4452,467,270,5784,987,343,12446,12,No,143
+Canada,CA,Ontario,ON,Central,Sunrise High,38,6,Grade 6,ICSE,1770,111,266,6582,189,222,9448,11,No,308
+Canada,CA,Quebec,QC,East,Elite International,22,8,Grade 8,IGCSE,1343,100,89,8288,691,216,10808,64,No,81
+Canada,CA,Quebec,QC,East,St. Xavier s School,14,10,Grade 10,ICSE,3882,269,251,12291,273,88,17471,71,Yes,417
+Canada,CA,Quebec,QC,East,Maple Leaf International,29,2,Grade 2,ICSE,3044,182,254,10608,446,208,14828,82,No,86
+Canada,CA,Quebec,QC,East,Westview School,20,3,Grade 3,HSC,2512,438,144,14656,504,215,18708,94,No,239
+Canada,CA,Quebec,QC,East,Elite International,41,6,Grade 6,HSC,4963,359,150,10474,626,209,16882,48,No,101
+Canada,CA,Quebec,QC,East,Sunrise High,35,12,Grade 12,GCSE,3415,197,170,5294,609,408,10211,61,No,118
+Canada,CA,Quebec,QC,East,Sunrise High,49,2,Grade 2,HSC,2654,101,290,12941,512,188,16760,20,No,74
+Canada,CA,Quebec,QC,East,Greenwood High,37,2,Grade 2,IGCSE,4297,221,204,2380,783,231,8169,92,No,53
+Canada,CA,Quebec,QC,East,Heritage Academy,47,9,Grade 9,IB,889,220,175,13457,293,255,15656,37,Yes,367
+United Kingdom,GB,Birmingham,BHM,Midlands,Lincoln Academy,10,4,Grade 4,GCSE,1833,211,252,3766,253,278,6865,25,Yes,272
+United Kingdom,GB,Birmingham,BHM,Midlands,Greenwood High,45,9,Grade 9,HSC,4364,495,71,13534,922,210,19938,16,No,342
+United Kingdom,GB,Birmingham,BHM,Midlands,Sunrise High,24,8,Grade 8,CBSE,4304,372,194,7636,316,115,13287,44,Yes,350
+United Kingdom,GB,Birmingham,BHM,Midlands,Victoria Public School,35,6,Grade 6,State Board,3990,323,99,7276,356,405,12578,58,No,129
+United Kingdom,GB,Birmingham,BHM,Midlands,Heritage Academy,43,2,Grade 2,IGCSE,826,453,94,10657,512,79,13109,16,Yes,488
+United Kingdom,GB,Birmingham,BHM,Midlands,Victoria Public School,37,9,Grade 9,IGCSE,1500,108,142,4648,703,227,7592,58,No,264
+United Kingdom,GB,London,LDN,South,Greenwood High,49,4,Grade 4,ICSE,4678,180,151,5990,219,368,11924,38,Yes,338
+United Kingdom,GB,London,LDN,South,Heritage Academy,30,5,Grade 5,GCSE,1677,183,142,2750,695,396,6254,98,No,411
+United Kingdom,GB,London,LDN,South,Global Scholars,9,2,Grade 2,HSC,1650,458,76,6905,115,263,9785,23,Yes,318
+United Kingdom,GB,London,LDN,South,Greenwood High,41,5,Grade 5,ICSE,1310,255,80,9809,247,392,12552,60,Yes,459
+United Kingdom,GB,London,LDN,South,Greenwood High,32,5,Grade 5,IGCSE,1455,262,246,12851,606,441,16347,96,Yes,486
+United Kingdom,GB,London,LDN,South,Victoria Public School,19,10,Grade 10,CBSE,3521,429,197,8557,964,77,13906,29,No,161
+United Kingdom,GB,London,LDN,South,Maple Leaf International,11,1,Grade 1,ICSE,4142,181,90,7783,237,324,12911,55,No,154
+United Kingdom,GB,London,LDN,South,Heritage Academy,21,10,Grade 10,ICSE,4314,352,288,4204,440,65,9972,49,Yes,309
+United Kingdom,GB,London,LDN,South,Westview School,28,3,Grade 3,IB,2241,470,298,5691,280,136,9200,80,No,84
+United Kingdom,GB,London,LDN,South,Lincoln Academy,8,6,Grade 6,CBSE,906,443,244,9341,586,398,12363,64,No,445
+United Kingdom,GB,London,LDN,South,Sunrise High,41,5,Grade 5,IGCSE,1025,244,156,14921,198,153,17035,45,Yes,338
+United Kingdom,GB,Manchester,MAN,North,Global Scholars,48,1,Grade 1,State Board,4537,237,284,6535,307,215,12466,34,No,351
+United Kingdom,GB,Manchester,MAN,North,Westview School,28,12,Grade 12,IGCSE,2466,424,111,14905,241,51,18333,48,No,135
+United Kingdom,GB,Manchester,MAN,North,Global Scholars,14,1,Grade 1,IGCSE,3635,277,128,6640,735,265,11826,29,No,146
+United Kingdom,GB,Manchester,MAN,North,Heritage Academy,14,5,Grade 5,State Board,4785,499,126,3053,251,464,9627,43,No,449
+United Kingdom,GB,Manchester,MAN,North,Global Scholars,50,1,Grade 1,IGCSE,3892,311,167,11009,544,332,16739,75,Yes,484
+United Kingdom,GB,Manchester,MAN,North,Victoria Public School,33,2,Grade 2,IGCSE,728,106,117,4975,614,142,7012,24,Yes,330
+India,IN,Delhi,DL,North,Maple Leaf International,2,12,Class 12,GCSE,2547,327,184,8387,908,363,13201,18,No,485
+India,IN,Delhi,DL,North,Victoria Public School,38,5,Class 5,State Board,2493,113,229,5550,327,254,9150,89,Yes,184
+India,IN,Delhi,DL,North,Westview School,18,8,Class 8,IB,3510,416,132,8574,878,460,14094,99,Yes,124
+India,IN,Delhi,DL,North,St. Xavier s School,26,3,Class 3,State Board,4201,107,279,2480,191,295,7860,64,No,307
+India,IN,Karnataka,KA,South,Global Scholars,9,8,Class 8,GCSE,3227,337,147,11612,444,54,15882,78,Yes,61
+India,IN,Karnataka,KA,South,Heritage Academy,3,3,Class 3,GCSE,663,240,273,2661,319,444,4838,28,No,238
+India,IN,Maharashtra,MH,West,Greenwood High,48,3,Class 3,GCSE,3168,144,105,12214,723,215,16650,52,No,81
+India,IN,Maharashtra,MH,West,Westview School,26,3,Class 3,CBSE,1971,234,164,7707,825,324,11285,91,Yes,60
+India,IN,Maharashtra,MH,West,Global Scholars,14,2,Class 2,State Board,4824,414,93,9196,327,122,15228,78,Yes,252
+India,IN,Maharashtra,MH,West,Victoria Public School,24,6,Class 6,ICSE,4535,128,210,9759,476,317,15710,100,No,285
+India,IN,Tamil Nadu,TN,South,Elite International,5,10,Class 10,CBSE,1257,196,267,8307,182,381,10701,65,Yes,111
+India,IN,Tamil Nadu,TN,South,Elite International,5,1,Class 1,ICSE,4512,245,267,7290,518,498,13812,65,No,482
+India,IN,Tamil Nadu,TN,South,Victoria Public School,44,6,Class 6,ICSE,2672,412,251,4156,386,149,8344,86,No,318
+India,IN,Tamil Nadu,TN,South,Global Scholars,41,5,Class 5,ICSE,1090,148,157,4926,785,222,7726,81,No,398
+United States,US,California,CA,West,Westview School,6,1,Grade 1,HSC,2236,120,284,5266,189,263,8597,19,No,239
+United States,US,California,CA,West,Global Scholars,28,9,Grade 9,IGCSE,966,118,119,12937,422,424,15441,12,Yes,455
+United States,US,California,CA,West,Maple Leaf International,18,4,Grade 4,GCSE,564,102,148,2425,247,68,3961,85,No,407
+United States,US,California,CA,West,Heritage Academy,40,2,Grade 2,HSC,3334,159,233,7810,162,209,12346,67,Yes,439
+United States,US,Florida,FL,South,Westview School,1,10,Grade 10,IGCSE,1247,443,110,13370,243,361,15863,11,No,89
+United States,US,Florida,FL,South,Sunrise High,13,8,Grade 8,CBSE,2187,356,148,14731,291,305,18303,90,No,285
+United States,US,Florida,FL,South,Sunrise High,13,3,Grade 3,IGCSE,1954,397,166,5142,281,351,8675,49,Yes,384
+United States,US,Florida,FL,South,St. Xavier s School,6,6,Grade 6,IGCSE,577,289,220,10859,147,148,12434,93,No,194
+United States,US,Florida,FL,South,Greenwood High,8,2,Grade 2,HSC,1517,475,258,3586,345,290,6803,87,No,332
+United States,US,New York,NY,North,Global Scholars,25,2,Grade 2,IB,859,363,251,6929,256,311,9241,65,No,272
+United States,US,New York,NY,North,Lincoln Academy,49,7,Grade 7,ICSE,3452,161,74,7855,115,462,12577,64,No,458
+United States,US,New York,NY,North,Heritage Academy,2,6,Grade 6,ICSE,4073,357,176,11814,396,198,17160,34,No,146
+United States,US,New York,NY,North,Westview School,40,4,Grade 4,HSC,1300,312,198,13707,359,249,16440,19,Yes,315
+United States,US,New York,NY,North,Sunrise High,21,7,Grade 7,IGCSE,2844,206,239,3072,360,386,7348,97,No,241
+United States,US,New York,NY,North,Greenwood High,5,1,Grade 1,GCSE,3662,483,108,9819,830,202,15328,87,Yes,224
+United States,US,Texas,TX,South,Greenwood High,47,12,Grade 12,IB,4041,226,253,10043,505,158,15443,75,No,217
+United States,US,Texas,TX,South,Westview School,29,1,Grade 1,IB,2906,104,54,9312,525,276,13483,10,No,306
+United States,US,Texas,TX,South,Elite International,10,9,Grade 9,IGCSE,2091,438,119,6469,759,162,10327,21,Yes,289
