@@ -6,7 +6,7 @@ LOCATION="US"
 
 # Generate bucket name if not provided
 if [ -z "$1" ]; then
-    BUCKET_NAME="gs://mcp-edu-assistant-data-$PROJECT_ID"
+    BUCKET_NAME="gs://mcp-academic-assistant-$PROJECT_ID"
     echo "No bucket provided. Using default: $BUCKET_NAME"
 else
     BUCKET_NAME=$1
@@ -86,7 +86,7 @@ OPTIONS(
 );"
 
 bq load --source_format=CSV --skip_leading_rows=1 --replace \
-    "$PROJECT_ID:$DATASET_NAME.bakery_prices" "$BUCKET_NAME/consultations.csv"
+    "$PROJECT_ID:$DATASET_NAME.consultations" "$BUCKET_NAME/consultations.csv"
 
 echo "----------------------------------------------------------------"
 echo "Setup Complete!"
