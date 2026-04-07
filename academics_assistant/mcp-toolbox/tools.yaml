@@ -19,8 +19,8 @@ tools:
    description: |
     Use this tool to get information on Academic Admissions in various schools across Country, States, Region, fees, holiday, Session details.
 
-  search_:
-   search_bigquery-public-data-baseball_bq:
+  
+search_bigquery-public-data-baseball_bq:
    kind: bigquery-sql
    source: my-bq-source
    statement: |
