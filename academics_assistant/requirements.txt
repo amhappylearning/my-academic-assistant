@@ -1,5 +1,5 @@
 pandas
 numpy
 google-cloud-bigquery
-google-adk == "1.28.1"
+google-adk == 1.28.1
 model == "gemini-3.1-pro-preview"
