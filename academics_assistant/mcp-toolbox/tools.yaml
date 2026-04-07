@@ -12,7 +12,7 @@ tools:
      A.COUNTRY_NAME,A.STATE_NAME,A.SCHOOL_NAME,A.REGION,A.TOTAL_BRANCHES,A.ACADEMIC_FEES,A.ACTIVITY_FEES,A.ADMISSION_FEES,
     C.SESSION_START_DATE,C.SESSION_END_DATE,C.ANNUAL_DAY,C.SUMMER_HOLIDAYS,C.WINTER_HOLIDAYS,C.QUARTERLY_MEETING_Q1,C.QUATERLY_MEETING_Q4
     FROM my-chrt-apr-hck-project.administration.consultations C
-    LEFT JOIN my-chrt-apr-hck-project.administration.admin_data A
+    INNER JOIN my-chrt-apr-hck-project.administration.admin_data A
     ON 
     C.COUNTRY_CD = A.COUNTRY_CODE
     AND C.STATE_CD  = A.STATE_CD
