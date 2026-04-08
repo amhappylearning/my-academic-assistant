@@ -86,7 +86,7 @@ OPTIONS(
 );"
 
 bq load --source_format=CSV --skip_leading_rows=1 --replace \
-    "$PROJECT_ID:$DATASET_NAME.consultations" "$BUCKET_NAME/consultations.csv"
+    "my-chrt-apr-hck-project:administration.consultations" "gcp_bucket_chrt_hck_apr_project/consultations.csv"
 
 echo "----------------------------------------------------------------"
 echo "Setup Complete!"
